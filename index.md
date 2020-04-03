@@ -17,7 +17,7 @@ Software Engineer
 Working as DevOps Engineer at [Celtra](https://www.celtra.com/).
 
 
-### Project and Contributions
+## Project and Contributions
 
 
 `date`
@@ -64,19 +64,19 @@ While being here as an intern, i worked on steps to automate deployment process,
 __Jr. DevOps Engineer__, Celtra, Ljubljana, Slovenia
 
 Worked on:
-* Migrating development and production environment from docker to kubernetes
-* Implementation of Helm deployment for services
-* Part of on-call rotation
-* Creation of internal tools to assist developers
-* Migrating mongodb service provider
-* Optimization of resource usage
-* Working on monitoring and alerting systems
+ * Migrating development and production environment from docker to kubernetes
+ * Implementation of Helm deployment for services
+ * Part of on-call rotation
+ * Creation of internal tools to assist developers
+ * Migrating mongodb service provider
+ * Optimization of resource usage
+ * Working on monitoring and alerting systems
 
 Worked with:
-* Golang, PHP, JS, Python
-* AWS, Kubernetes, Helm
-* Mongodb, RDS
-* Grafana, Prometheus
+ * Golang, PHP, JS, Python
+ * AWS, Kubernetes, Helm
+ * Mongodb, RDS
+ * Grafana, Prometheus
 
 ## Education
 
