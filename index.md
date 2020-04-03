@@ -81,10 +81,10 @@ Worked with:
 ## Education
 
 `2015-2019`
-__University of Ljubljana, Faculty of Computer and Information Science, Ljubljana, Slovenia.__
+__University of Ljubljana, Faculty of Computer and Information Science__, Ljubljana, Slovenia.
 
 `Fall 2018`
-__Malmö University, Computer Science, Malmö, Sweden__
+__Malmö University, Computer Science__, Malmö, Sweden
 
 <!-- ### Footer
 
