@@ -1,2 +1,3 @@
-markdown:   kramdown
-style:  davewhipp
+markdown: kramdown
+sass:
+  sass_dir: media
