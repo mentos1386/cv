@@ -11,8 +11,8 @@ title: Tine Jozelj's CV
 
 <div id="webaddress">
 <a href="mailto:tine.jozelj@tjo.space">tine.jozelj@tjo.space</a>
-<a href="https://github.com/mentos1386">mentos1386 @ Github</a>
-<a href="https://www.linkedin.com/in/tine-jozelj-884398121/">Linkedin Profile</a>
+<a href="https://github.com/mentos1386">mentos1386@Github</a>
+<a href="https://www.linkedin.com/in/tine-jozelj-884398121/">Linkedin</a>
 </div>
 
 
