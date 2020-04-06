@@ -25,6 +25,10 @@ hr {
 	width: 100%;
 }
 
+.page-break {
+	page-break-before: always;
+}
+
 h5 {
 	font-weight: normal;
 }
@@ -131,6 +135,13 @@ a:hover {
 
 	a {
 		text-decoration: none;
+	}
+}
+
+@media print {
+	hr {
+		display: none;
+		visibility: hidden;
 	}
 }
 

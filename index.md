@@ -11,8 +11,8 @@ title: Tine Jozelj's CV
 
 <div id="webaddress">
 <a href="mailto:tine.jozelj@tjo.space">tine.jozelj@tjo.space</a>
-<a href="https://github.com/mentos1386">mentos1386@Github</a>
-<a href="https://www.linkedin.com/in/tine-jozelj-884398121/">Linkedin</a>
+<a href="https://github.com/mentos1386">mentos1386@github</a>
+<a href="https://www.linkedin.com/in/tine-jozelj-884398121/">tine-jozelj@linkedin</a>
 </div>
 
 
@@ -49,7 +49,7 @@ free software, decentralized technologies and game development.
 
 ---
 
-## Project and Contributions
+<h2 class="page-break">Project and Contributions</h2>
 
 <h5>
     <span class="title"><strong>New Eden Social</strong></span>
@@ -92,7 +92,8 @@ I always push improvements, fixes upstream to open source projects. In years, th
 
 ---
 
-## Occupation
+
+<h2 class="page-break">Occupation</h2>
 
 <h5>
     <span class="title"><strong>Jr. DevOps Engineer</strong>, Celtra</span>
