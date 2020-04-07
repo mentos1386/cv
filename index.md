@@ -39,7 +39,7 @@ free software, decentralized technologies and game development.
 
 ### Programming Languages
 
- * Go Lang
+ * Go
  * Python
  * PHP
  * Java
@@ -71,8 +71,9 @@ the framework.
     <a href="https://github.com/mentos1386/lynx">https://github.com/mentos1386/lynx</a>
 </h5>
 
-Opinionated Framework built on top of NestJS and TypeORM. Was built in paralle with New Eden Social. Taken from that codebase to be introduced
-as a framework for others to use. Lack of time, resulted in me abandening the project.
+Opinionated Framework built on top of NestJS and TypeORM. Was built in paralle with New Eden Social.
+Taken from that codebase to be introduced as a framework for others to use.
+Lack of time, resulted in me abandening the project.
 
 <h5>
     <span class="title"><strong>Nest Raven</strong></span>
@@ -82,9 +83,8 @@ as a framework for others to use. Lack of time, resulted in me abandening the pr
 
 Sentry Raven Module for NestJS Framework. It's in active use, has 30k downloads per month on NPM.
 
-
 <h5>
-    <span class="title"><strong>a bunch of open source projects</strong></span>
+    <span class="title"><strong>A bunch of open source projects</strong></span>
     <span class="date">Present</span>
 </h5>
 
@@ -115,7 +115,9 @@ I always push improvements, fixes upstream to open source projects. In years, th
     <i>Ljubljana, Slovenia</i>
 </h5>
 
-While being here as an intern, i worked on steps to automate deployment process, improving internal tools and assisting developers.
+ * Automation of deployment process
+ * Internal tools improvements
+ * Assisting developers
 
 <h5>
     <span class="title"><strong>Backend Developer</strong>, Proxima Interactive</span>
@@ -135,15 +137,15 @@ Worked on projects from game APIs to creating AD Platform that had to handle mil
     <i>Ljubljana, Slovenia</i>
 </h5>
 
-Studying for Bachelor's degree
+Studied for Bachelor's degree.
 
 <h5>
     <span class="title"><strong>Malmö University, Computer Science</strong></span>
-    <span class="date">Fall 2018</span>
+    <span class="date">Fall semester 2018</span>
     <i>Malmö, Sweden</i>
 </h5>
 
-Erasmus Exchange
+Erasmus Exchange for one Semester.
 
 ---
 
