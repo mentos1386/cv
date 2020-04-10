@@ -32,10 +32,11 @@ free software, decentralized technologies and game development.
  * Kubernetes, Docker
  * MongoDB, MySQL, Redis, Postgresql, ElasticSearch
  * Terraform, Cloudformation
- * Grafana, Prometheus
+ * Grafana, Prometheus, Sumologic, Sentry
  * VueJS, Angular
  * CQRS, OpenAPI, GRPC, Bazel
  * Godot
+ * CircleCI, Travis
 
 ### Programming Languages
 
@@ -136,8 +137,14 @@ Worked on projects from game APIs to creating AD Platform that had to handle mil
     <span class="date">2015 - 2019</span>
     <i>Ljubljana, Slovenia</i>
 </h5>
-
-Studied for Bachelor's degree.
+ 
+ * Web Development
+ * Comunications and Network Security
+ * Compilers and Virtual Machines
+ * Mobile Networks
+ * Computer Graphics
+ * Design
+ * Integrated Circuits
 
 <h5>
     <span class="title"><strong>Malmö University, Computer Science</strong></span>
@@ -145,7 +152,10 @@ Studied for Bachelor's degree.
     <i>Malmö, Sweden</i>
 </h5>
 
-Erasmus Exchange for one Semester.
+ * Artificial Intelegance
+ * Procedural Content Generation
+ * Internet of Things and People
+ * Advances in Software Development
 
 ---
 
