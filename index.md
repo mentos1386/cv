@@ -31,12 +31,12 @@ free software, decentralized technologies and game development.
  * AWS, GCP
  * Kubernetes, Docker
  * MongoDB, MySQL, Redis, Postgresql, ElasticSearch
- * Terraform, Cloudformation
+ * Terraform, Cloudformation, Ansible
  * Grafana, Prometheus, Sumologic, Sentry
  * VueJS, Angular
  * CQRS, OpenAPI, GRPC, Bazel
  * Godot
- * CircleCI, Travis
+ * CircleCI, Travis, Gitlab
 
 ### Programming Languages
 
@@ -47,6 +47,7 @@ free software, decentralized technologies and game development.
  * Javascript (Nodejs and web)
  * Typescript
  * CSS/SCSS and HTML
+ * Bash
 
 ---
 
