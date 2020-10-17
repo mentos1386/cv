@@ -6,7 +6,7 @@ title: Tine Jozelj's CV
 <div id="headline">
     <img class="avatar" src="https://avatars2.githubusercontent.com/u/1910649?s=460&u=d7ef7a7cd65e644b936e232d61ce21cf2cead047&v=4" alt="Avatar"/>
     <h1 class="title">Tine Jozelj</h1>
-    <p class="subtitle">Software Engineer</p>
+    <p class="subtitle">DevOps Engineer</p>
 </div>
 
 <div id="webaddress">
@@ -98,8 +98,14 @@ I always push improvements, fixes upstream to open source projects. In years, th
 <h2 class="page-break">Occupation</h2>
 
 <h5>
+    <span class="title"><strong>DevOps Engineer</strong>, Celtra</span>
+    <span class="date">July 2020 - Present</span>
+    <i>Ljubljana, Slovenia</i>
+</h5>
+
+<h5>
     <span class="title"><strong>Jr. DevOps Engineer</strong>, Celtra</span>
-    <span class="date">Jun 2019 - Present</span>
+    <span class="date">Jun 2019 - July 2020</span>
     <i>Ljubljana, Slovenia</i>
 </h5>
 
