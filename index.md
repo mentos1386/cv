@@ -168,5 +168,5 @@ Worked on projects from game APIs to creating AD Platform that had to handle mil
 
 ### Footer
 
-Last updated: April 2020
+Last updated: October 2020
 
