@@ -22,10 +22,13 @@ Working at [Bird Buddy](https://mybirdbuddy.com/) as Principal Engineer.
 
 I have experiance in designing and building self healing, scalable and low maintanance architectures
 as an Infrastructure Engineer as well as a Software Engineer. At Bird Buddy the _cloud_ manages
-100.000's of IoT devices and processing more than 1M of images per day.
+100.000's of IoT devices and processing more than 1M of images and videos per day.
+
+I'm also interested in improving developer experiances, observability and in general automation of processes
+to remove toil as much as possible.
 
 I'm passionate about open source projects and communities. Interested in open web, open standards,
-free software, decentralized technologies.
+free software, decentralized technologies...
 
 ---
 
@@ -96,7 +99,7 @@ I always push improvements, fixes upstream to open source projects. In years, th
 <h2 class="page-break">Occupation</h2>
 
 <h5>
-    <span class="title"><strong>DevOps Engineer</strong>, <a href="https://mybirdbuddy.com/">Bird Buddy</a></span>
+    <span class="title"><strong>Principal Engineer</strong>, <a href="https://mybirdbuddy.com/">Bird Buddy</a></span>
     <span class="date">Feb 2021 - Present</span>
     <i>Ljubljana, Slovenia</i>
 </h5>
