@@ -84,7 +84,7 @@ Lack of time, resulted in me abandening the project.
     <a href="https://github.com/mentos1386/nest-raven">https://github.com/mentos1386/nest-raven</a>
 </h5>
 
-Sentry Raven Module for NestJS Framework. It's in active use, has 30k downloads per month on NPM.
+Sentry Module for NestJS Framework. It's in active use and has over 100k downloads per month on NPM.
 
 <h5>
     <span class="title"><strong>A bunch of open source projects</strong></span>
