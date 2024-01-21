@@ -166,10 +166,6 @@ a:hover {
   padding: 0;
 }
 
-#webaddress li:not(:first-child) {
-  margin-left: 0.5em;
-}
-
 @media print {
   #headline {
     font-size: 2em;
@@ -198,7 +194,7 @@ a:hover {
 		flex-wrap: wrap;
 		align-items: start;
 
-		a:not(:first-child)::before {
+		li:not(:first-child)::before {
 			content: "|";
 			display: inline-block;
 			color: initial;
