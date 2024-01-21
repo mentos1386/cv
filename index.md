@@ -10,14 +10,14 @@ title: Tine Jozelj's CV
         alt="Pixalated Avatar that represents me online. I prefeer not to use my real life picture."
     />
     <h1 class="title">Tine Jozelj</h1>
-    <p class="subtitle">Software and Infrastructure Engineer</p>
+    <h2 class="subtitle">Software and Infrastructure Engineer</h2>
 </div>
 
-<div id="webaddress">
-<a href="mailto:tine.jozelj@tjo.space">Mail: tine.jozelj@tjo.space</a>
-<a href="https://github.com/mentos1386">Github: mentos1386</a>
-<a href="https://www.linkedin.com/in/tine-jozelj-884398121/">LinkedIn: Tine Jozelj</a>
-</div>
+<ul id="webaddress">
+<li><a href="mailto:tine.jozelj@tjo.space">Mail: tine.jozelj@tjo.space</a></li>
+<li><a href="https://github.com/mentos1386">Github: mentos1386</a></li>
+<li><a href="https://www.linkedin.com/in/tine-jozelj-884398121/">LinkedIn: Tine Jozelj</a></li>
+</ul>
 
 
 ## About Me
@@ -37,26 +37,26 @@ free software, decentralized technologies...
 
 ### Technologies and Programming Languages
 
-<div class="pills">
-    <span>AWS</span>
-    <span>GCP</span>
-    <span>Kubernetes</span>
-    <span>MongoDB</span>
-    <span>Redis</span>
-    <span>Postgresql</span>
-    <span>Terraform</span>
-    <span>Grafana</span>
-    <span>Prometheus</span>
-    <span>Loki</span>
-    <span>OpenTelemetry</span>
-    <span>Sentry</span>
-    <span>Javascript & Typescript</span>
-    <span>Golang</span>
-    <span>Python</span>
-    <span>PHP</span>
-    <span>Rust</span>
-    <span>Java</span>
-</div>
+<ul class="pills">
+    <li>AWS</li>
+    <li>GCP</li>
+    <li>Kubernetes</li>
+    <li>MongoDB</li>
+    <li>Redis</li>
+    <li>Postgresql</li>
+    <li>Terraform</li>
+    <li>Grafana</li>
+    <li>Prometheus</li>
+    <li>Loki</li>
+    <li>OpenTelemetry</li>
+    <li>Sentry</li>
+    <li>Javascript & Typescript</li>
+    <li>Golang</li>
+    <li>Python</li>
+    <li>PHP</li>
+    <li>Rust</li>
+    <li>Java</li>
+</ul>
 
 ---
 
