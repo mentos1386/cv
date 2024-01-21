@@ -16,7 +16,7 @@ title: Tine Jozelj's CV
 </div>
 
 
-## Me
+## About Me
 
 Working at [Bird Buddy](https://mybirdbuddy.com/) as Principal Engineer.
 
@@ -92,6 +92,7 @@ Sentry Module for NestJS Framework. It's in active use and has over 100k downloa
 </h5>
 
 I always push improvements, fixes upstream to open source projects. In years, this resulted in PR's and Issues opened on a lot of different projects.
+See more at my [Github profile](https://github.com/mentos1386).
 
 ---
 
