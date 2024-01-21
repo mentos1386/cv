@@ -61,7 +61,7 @@ free software, decentralized technologies...
 ---
 
 
-<h2 class="page-break">Occupation</h2>
+<h2>Occupation</h2>
 
 <h5>
     <span class="title"><strong>Principal Engineer</strong>, <a href="https://mybirdbuddy.com/">Bird Buddy</a></span>
@@ -129,7 +129,7 @@ Worked on variaty of projects from game APIs, realtime chat and advertisement pl
 
 ---
 
-<h2 class="page-break">Projects and Contributions</h2>
+<h2>Projects and Contributions</h2>
 
 <h5>
     <span class="title"><strong>New Eden Social</strong></span>
@@ -208,5 +208,5 @@ See more at my [Github profile](https://github.com/mentos1386).
 
 Last updated: January 2024.
 
-Online version at [cv.mnts.dev](https://cv.mnts.dev). <a class="print-it" href="javascript:if(window.print)window.print()">Print it!</a>
+Online version at [cv.mnts.dev](https://cv.mnts.dev). <a role="button" class="print-it" href="javascript:if(window.print)window.print()">Print it!</a>
 
