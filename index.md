@@ -204,7 +204,7 @@ See more at my [Github profile](https://github.com/mentos1386).
 
 ---
 
-### Footer
+## Footer
 
 Last updated: January 2024.
 
