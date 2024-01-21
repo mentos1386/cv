@@ -197,4 +197,5 @@ Worked on projects from game APIs to creating AD Platform that had to handle mil
 ### Footer
 
 Last updated: January 2024. Online version at [cv.mnts.dev](https://cv.mnts.dev).
+<a class="print-it" href="javascript:if(window.print)window.print()">Print the cv.</a>
 
