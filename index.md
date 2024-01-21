@@ -58,16 +58,15 @@ free software, decentralized technologies...
     <li>Java</li>
 </ul>
 
+## Occupation
 ---
 
-
-<h2>Occupation</h2>
-
-<h5>
-    <span class="title"><strong>Principal Engineer</strong>, <a href="https://mybirdbuddy.com/">Bird Buddy</a></span>
+### [Bird Buddy](https://mybirdbuddy.com)
+<h4>
+    <span class="title"><strong>Principal Engineer</strong></span>
     <span class="date">Feb 2021 - Present</span>
     <i>Ljubljana, Slovenia</i>
-</h5>
+</h4>
 
 As the first "backend" employee i was in charge of designing and implementing architecture for the Bird Buddy product.
 
@@ -89,17 +88,18 @@ We did slow the release a bit, but due to the product offten being bought as a g
 meant that most of devices will be activated at the same day.
 
 
-<h5>
-    <span class="title"><strong>DevOps Engineer</strong>, <a href="https://celtra.com/">Celtra</a></span>
+### [Celtra](https://celtra.com)
+<h4>
+    <span class="title"><strong>DevOps Engineer</strong></span>
     <span class="date">July 2020 - Feb 2021</span>
     <i>Ljubljana, Slovenia</i>
-</h5>
+</h4>
 
-<h5>
-    <span class="title"><strong>Jr. DevOps Engineer</strong>, <a href="https://celtra.com/">Celtra</a></span>
+<h4>
+    <span class="title"><strong>Jr. DevOps Engineer</strong></span>
     <span class="date">Jun 2019 - July 2020</span>
     <i>Ljubljana, Slovenia</i>
-</h5>
+</h4>
 
  * Migrating development and production environment from docker to kubernetes
  * Implementation of Helm deployment for services
@@ -109,33 +109,33 @@ meant that most of devices will be activated at the same day.
  * Optimization of resource usage
  * Working on monitoring and alerting systems
 
-<h5>
-    <span class="title"><strong>DevOps Engineer Intern</strong>, <a href="https://celtra.com/">Celtra</a></span>
+<h4>
+    <span class="title"><strong>DevOps Engineer Intern</strong></span>
     <span class="date">Feb 2018 - Jun 2019</span>
     <i>Ljubljana, Slovenia</i>
-</h5>
+</h4>
 
  * Automation of deployment process
  * Internal tools improvements
  * Assisting developers
 
-<h5>
-    <span class="title"><strong>Backend Developer</strong>, Proxima Interactive</span>
-    <span class="date">Oct 2016 - Feb 2019</span>
+### [Proxima Interactive](https://proxima.si)
+<h4>
+    <span class="title"><strong>Backend Developer</strong></span>
+    <span class="date">Oct 2016 - Feb 2018</span>
     <i>Ljubljana, Slovenia</i>
-</h5>
+</h4>
 
 Worked on variaty of projects from game APIs, realtime chat and advertisement platform that had to handle millions of requests per day.
 
+## Projects and Contributions
 ---
 
-<h2>Projects and Contributions</h2>
-
-<h5>
+<h4>
     <span class="title"><strong>New Eden Social</strong></span>
     <span class="date">Jul 2017 - Oct 2019</span>
     <a href="https://github.com/new-eden-social/new-eden-social">https://github.com/new-eden-social/new-eden-social</a>
-</h5>
+</h4>
 
 <p>
 A social network created for an mmorpg game EVE Online. It was more of a playground to learn/improve web development, frontend and backend.
@@ -145,43 +145,41 @@ Sadly never released, but it's still used in NestJS comunity as a referance proj
 the framework.
 </p>
 
-<h5>
+<h4>
     <span class="title"><strong>Lynx</strong></span>
     <span class="date">Feb 2018 - Jun 2018</span>
     <a href="https://github.com/mentos1386/lynx">https://github.com/mentos1386/lynx</a>
-</h5>
+</h4>
 
 Opinionated Framework built on top of NestJS and TypeORM. Was built in paralle with New Eden Social.
 Taken from that codebase to be introduced as a framework for others to use.
 Lack of time, resulted in me abandening the project.
 
-<h5>
+<h4>
     <span class="title"><strong>Nest Raven</strong></span>
     <span class="date">Feb 2018 - Present</span>
     <a href="https://github.com/mentos1386/nest-raven">https://github.com/mentos1386/nest-raven</a>
-</h5>
+</h4>
 
 Sentry Module for NestJS Framework. It's in active use and has over 100k downloads per month on NPM.
 
-<h5>
+<h4>
     <span class="title"><strong>A bunch of open source projects</strong></span>
     <span class="date">Present</span>
-</h5>
+</h4>
 
 I always push improvements, fixes upstream to open source projects. In years, this resulted in PR's and Issues opened on a lot of different projects.
 See more at my [Github profile](https://github.com/mentos1386).
 
 
-
+## Education
 ---
 
-## Education
-
-<h5>
+<h4>
     <span class="title"><strong>University of Ljubljana, Faculty of Computer and Information Science</strong></span>
     <span class="date">2015 - 2019</span>
     <i>Ljubljana, Slovenia</i>
-</h5>
+</h4>
  
  * Web Development
  * Comunications and Network Security
@@ -191,22 +189,23 @@ See more at my [Github profile](https://github.com/mentos1386).
  * Design
  * Integrated Circuits
 
-<h5>
+<h4>
     <span class="title"><strong>Malmö University, Computer Science</strong></span>
     <span class="date">Fall semester 2018</span>
     <i>Malmö, Sweden</i>
-</h5>
+</h4>
 
  * Artificial Intelegance
  * Procedural Content Generation
  * Internet of Things and People
  * Advances in Software Development
 
----
-
 ## Footer
+---
 
 Last updated: January 2024.
 
-Online version at [cv.mnts.dev](https://cv.mnts.dev). <a role="button" class="print-it" href="javascript:if(window.print)window.print()">Print it!</a>
+Online version at [cv.mnts.dev](https://cv.mnts.dev).
+Source at [github.com/mentos1386/cv](https://github.com/mentos1386/cv).
+<a role="button" class="print-it" href="javascript:if(window.print)window.print()">Print it!</a>
 
