@@ -4,7 +4,11 @@ title: Tine Jozelj's CV
 ---
 
 <div id="headline">
-    <img class="avatar" src="https://avatars2.githubusercontent.com/u/1910649?s=460&u=d7ef7a7cd65e644b936e232d61ce21cf2cead047&v=4" alt="Avatar"/>
+    <img
+        class="avatar"
+        src="https://avatars2.githubusercontent.com/u/1910649?s=460&u=d7ef7a7cd65e644b936e232d61ce21cf2cead047&v=4"
+        alt="Pixalated Avatar that represents me online. I prefeer not to use my real life picture."
+    />
     <h1 class="title">Tine Jozelj</h1>
     <p class="subtitle">Software and Infrastructure Engineer</p>
 </div>
@@ -24,75 +28,35 @@ I have experiance in designing and building self healing, scalable and low maint
 as an Infrastructure Engineer as well as a Software Engineer. At Bird Buddy the _cloud_ manages
 100.000's of IoT devices and processing more than 1M of images and videos per day.
 
-I'm also interested in improving developer experiances, observability and in general automation of processes
-to remove toil as much as possible.
+I'm also interested in improving developer experiances and tooling, observability and in general automation of processes
+to remove toil as much as possible. When starting new projects, i care about automated deployments and releases and ease
+of onboarding new people to the projects.
 
 I'm passionate about open source projects and communities. Interested in open web, open standards,
 free software, decentralized technologies...
 
----
+### Technologies and Programming Languages
 
-### Technologies
-
- * AWS, GCP
- * Kubernetes, Docker
- * MongoDB, MySQL, Redis, Postgresql, ElasticSearch
- * Terraform, Cloudformation, Ansible
- * Grafana, Prometheus, Loki, OpenTelemetry, Sentry
- * CircleCI, Travis, Gitlab, Github
-
-### Programming Languages
-
- * Javascript & Typescript (Nodejs and web)
- * Go
- * Python
- * PHP
- * Java
- * Rust
-
----
-
-<h2 class="page-break">Projects and Contributions</h2>
-
-<h5>
-    <span class="title"><strong>New Eden Social</strong></span>
-    <span class="date">Jul 2017 - Oct 2019</span>
-    <a href="https://github.com/new-eden-social/new-eden-social">https://github.com/new-eden-social/new-eden-social</a>
-</h5>
-
-<p>
-A social network created for an mmorpg game EVE Online. It was more of a playground to learn/improve web development, frontend and backend.
-Interesting technologies used in this project are Redux, GRPC, Kuberentes, CI/CD Pipeline, Bazel, CQRS, Angular...
-<br/>
-Sadly never released, but it's still used in NestJS comunity as a referance project for others to see how larger projects look like using
-the framework.
-</p>
-
-<h5>
-    <span class="title"><strong>Lynx</strong></span>
-    <span class="date">Feb 2018 - Jun 2018</span>
-    <a href="https://github.com/mentos1386/lynx">https://github.com/mentos1386/lynx</a>
-</h5>
-
-Opinionated Framework built on top of NestJS and TypeORM. Was built in paralle with New Eden Social.
-Taken from that codebase to be introduced as a framework for others to use.
-Lack of time, resulted in me abandening the project.
-
-<h5>
-    <span class="title"><strong>Nest Raven</strong></span>
-    <span class="date">Feb 2018 - Present</span>
-    <a href="https://github.com/mentos1386/nest-raven">https://github.com/mentos1386/nest-raven</a>
-</h5>
-
-Sentry Module for NestJS Framework. It's in active use and has over 100k downloads per month on NPM.
-
-<h5>
-    <span class="title"><strong>A bunch of open source projects</strong></span>
-    <span class="date">Present</span>
-</h5>
-
-I always push improvements, fixes upstream to open source projects. In years, this resulted in PR's and Issues opened on a lot of different projects.
-See more at my [Github profile](https://github.com/mentos1386).
+<div class="pills">
+    <span>AWS</span>
+    <span>GCP</span>
+    <span>Kubernetes</span>
+    <span>MongoDB</span>
+    <span>Redis</span>
+    <span>Postgresql</span>
+    <span>Terraform</span>
+    <span>Grafana</span>
+    <span>Prometheus</span>
+    <span>Loki</span>
+    <span>OpenTelemetry</span>
+    <span>Sentry</span>
+    <span>Javascript & Typescript</span>
+    <span>Golang</span>
+    <span>Python</span>
+    <span>PHP</span>
+    <span>Rust</span>
+    <span>Java</span>
+</div>
 
 ---
 
@@ -161,7 +125,53 @@ meant that most of devices will be activated at the same day.
     <i>Ljubljana, Slovenia</i>
 </h5>
 
-Worked on projects from game APIs to creating AD Platform that had to handle millions of requests per day.
+Worked on variaty of projects from game APIs, realtime chat and advertisement platform that had to handle millions of requests per day.
+
+---
+
+<h2 class="page-break">Projects and Contributions</h2>
+
+<h5>
+    <span class="title"><strong>New Eden Social</strong></span>
+    <span class="date">Jul 2017 - Oct 2019</span>
+    <a href="https://github.com/new-eden-social/new-eden-social">https://github.com/new-eden-social/new-eden-social</a>
+</h5>
+
+<p>
+A social network created for an mmorpg game EVE Online. It was more of a playground to learn/improve web development, frontend and backend.
+Interesting technologies used in this project are Redux, GRPC, Kuberentes, CI/CD Pipeline, Bazel, CQRS, Angular...
+<br/>
+Sadly never released, but it's still used in NestJS comunity as a referance project for others to see how larger projects look like using
+the framework.
+</p>
+
+<h5>
+    <span class="title"><strong>Lynx</strong></span>
+    <span class="date">Feb 2018 - Jun 2018</span>
+    <a href="https://github.com/mentos1386/lynx">https://github.com/mentos1386/lynx</a>
+</h5>
+
+Opinionated Framework built on top of NestJS and TypeORM. Was built in paralle with New Eden Social.
+Taken from that codebase to be introduced as a framework for others to use.
+Lack of time, resulted in me abandening the project.
+
+<h5>
+    <span class="title"><strong>Nest Raven</strong></span>
+    <span class="date">Feb 2018 - Present</span>
+    <a href="https://github.com/mentos1386/nest-raven">https://github.com/mentos1386/nest-raven</a>
+</h5>
+
+Sentry Module for NestJS Framework. It's in active use and has over 100k downloads per month on NPM.
+
+<h5>
+    <span class="title"><strong>A bunch of open source projects</strong></span>
+    <span class="date">Present</span>
+</h5>
+
+I always push improvements, fixes upstream to open source projects. In years, this resulted in PR's and Issues opened on a lot of different projects.
+See more at my [Github profile](https://github.com/mentos1386).
+
+
 
 ---
 
@@ -196,6 +206,7 @@ Worked on projects from game APIs to creating AD Platform that had to handle mil
 
 ### Footer
 
-Last updated: January 2024. Online version at [cv.mnts.dev](https://cv.mnts.dev).
-<a class="print-it" href="javascript:if(window.print)window.print()">Print the cv.</a>
+Last updated: January 2024.
+
+Online version at [cv.mnts.dev](https://cv.mnts.dev). <a class="print-it" href="javascript:if(window.print)window.print()">Print it!</a>
 
