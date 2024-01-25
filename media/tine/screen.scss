@@ -34,7 +34,6 @@ body {
 	padding: 2em;
 
   --primary-color: #7959c9;
-  --complementary-color: #7959c9;
 }
 
 h1, h2, h3, h4, h5, p, ul {
@@ -150,7 +149,7 @@ h2 {
 }
 
 h3 {
-	color: var(--complementary-color);
+	color: var(--primary-color);
 }
 
 a {
@@ -158,7 +157,8 @@ a {
 }
 
 a:hover {
-	color: var(--complementary-color);
+  color: white;
+  background-color: var(--primary-color);
 }
 
 .pills {
