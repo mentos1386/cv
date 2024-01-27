@@ -5,7 +5,7 @@ title: Tine Jozelj's CV
 
 <div id="headline">
     <img
-        class="avatar"
+        class="avatar shadow"
         src="https://avatars2.githubusercontent.com/u/1910649?s=460&u=d7ef7a7cd65e644b936e232d61ce21cf2cead047&v=4"
         alt="Pixalated Avatar that represents me online. I prefeer not to use my real life picture."
     />
@@ -37,7 +37,7 @@ free software, decentralized technologies...
 
 ### Technologies and Programming Languages
 
-<ul class="pills">
+<ul class="pills shadow-items">
     <li>AWS</li>
     <li>GCP</li>
     <li>Kubernetes</li>
