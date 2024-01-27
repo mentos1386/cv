@@ -6,6 +6,7 @@
   font-style: normal;
   font-weight: 400;
   src: local('MonaspaceArgon'), local('MonaspaceArgon-Regular'), url("./monaspace/MonaspaceArgon-Regular.woff") format('woff');
+  font-display: swap;
 }
 
 @font-face {
@@ -13,6 +14,7 @@
   font-style: italic;
   font-weight: 400;
   src: local('MonaspaceArgon'), local('MonaspaceArgon-Italic'), url("./monaspace/MonaspaceArgon-Italic.woff") format('woff');
+  font-display: swap;
 }
 
 @font-face {
@@ -20,6 +22,7 @@
   font-style: normal;
   font-weight: bold;
   src: local('MonaspaceArgon'), local('MonaspaceArgon-Bold'), url("./monaspace/MonaspaceArgon-Bold.woff") format('woff');
+  font-display: swap;
 }
 
 @font-face {
@@ -27,13 +30,14 @@
   font-style: italic;
   font-weight: bold;
   src: local('MonaspaceArgon'), local('MonaspaceArgon-BoldItalic'), url("./monaspace/MonaspaceArgon-BoldItalic.woff") format('woff');
+  font-display: swap;
 }
 
 body {
 	font-family: MonaspaceArgon, Monaco,Menlo,monospace,sans-serif;
 	padding: 2em;
 
-  --primary-color: #7959c9;
+  --primary-color: black;
 }
 
 h1, h2, h3, h4, h5, p, ul {
@@ -53,14 +57,10 @@ hr {
 	grid-column: content;
 	width: 100%;
   color: var(--primary-color);
-}
 
-.page-break {
-	page-break-before: always;
-}
-
-h4 {
-	font-weight: normal;
+  // Only shown on desktop
+  display: none;
+  visibility: hidden;
 }
 
 .shadow,
@@ -70,7 +70,7 @@ h4 {
 }
 
 #headline {
-	font-size: 3em;
+	font-size: 2em;
 	display: grid;
 	grid-column: content;
 	grid-template-columns: [content] auto;
@@ -113,17 +113,6 @@ p, blockquote, ul, h4 {
 	grid-column: content;
 }
 
-code {
-	font-size: 0.9em;
-	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #aaa;
-}
-
-// Date
-p code {
-	text-align: right;
-}
-
 // Location
 h4 {
 	display: grid;
@@ -137,8 +126,7 @@ h4 {
 
 	.date {
 		grid-column: content;
-		font-family: Monaco,Menlo,monospace,sans-serif;
-		color: #666;
+    font-style: italic;
 	}
 
 	a {
@@ -155,12 +143,17 @@ ul {
 h2 {
 	color: var(--primary-color);
 	font-weight: bold;
-  font-size: 1.4em
+  font-size: 1.4em;
+  justify-self: center;
 }
 
 h3 {
 	color: var(--primary-color);
   font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: -0.5em;
+  justify-self: center;
+  text-align: center;
 }
 
 a {
@@ -176,30 +169,33 @@ a:hover {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  align-items: center;
   list-style: none;
   padding: 0;
+  gap: 0.5em;
 }
 
+.pill,
 .pills > li {
   display: inline-block;
   padding: 0.2em 0.5em;
   border-radius: 0.5em;
   font-size: 0.8em;
-  margin: 0.2em
 }
 
 #webaddress {
 	grid-column: content;
 	display: flex;
-	flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
 	align-items: center;
+  list-style: none;
+  padding: 0;
+  gap: 0.5em;
 
 	a {
 		text-decoration: none;
 	}
-
-  list-style: none;
-  padding: 0;
 }
 
 @media print {
@@ -207,56 +203,40 @@ a:hover {
     font-size: 0.6em;
   }
 
-  #headline {
-    font-size: 2em;
-  }
-
-  h2 {
-    justify-self: center;
-  }
-
-  h3 {
-    text-align: start;
-    font-weight: bold;
-    margin-bottom: -0.5em;
-  }
-
-	hr {
-		display: none;
-		visibility: hidden;
-	}
-
   .print-it {
     display: none;
     visibility: hidden;
+  }
+
+  h3 {
+    text-align: left;
+    justify-self: start;
   }
 }
 
 @media screen and (min-width: 700px) {
 
+  hr {
+    justify-self: center;
+    align-self: center;
+  }
+
 	h2,h3 {
 		grid-column: headers;
     justify-self: end;
+    text-align: end;
 	}
 
 	#webaddress {
 		flex-direction: row;
 		flex-wrap: wrap;
 		align-items: start;
-
-		li:not(:first-child)::before {
-			content: "|";
-			display: inline-block;
-			color: initial;
-			width: 1em;
-			text-align: center;
-			cursor: initial;
-		}
 	}
 
 	#headline {
 		grid-template-columns: [avatar] 2em [content] auto;
 		grid-column-gap: .5em;
+    font-size: 3em;
 
 		.avatar {
 			grid-row-start: 1;

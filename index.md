@@ -14,9 +14,9 @@ title: Tine Jozelj's CV
 </div>
 
 <ul id="webaddress">
-<li><a href="mailto:tine.jozelj@tjo.space">Mail: tine.jozelj@tjo.space</a></li>
-<li><a href="https://github.com/mentos1386">Github: mentos1386</a></li>
-<li><a href="https://www.linkedin.com/in/tine-jozelj-884398121/">LinkedIn: Tine Jozelj</a></li>
+<li><a class="pill shadow" href="mailto:tine.jozelj@tjo.space">Mail: tine.jozelj@tjo.space</a></li>
+<li><a class="pill shadow" href="https://github.com/mentos1386">Github: mentos1386</a></li>
+<li><a class="pill shadow" href="https://www.linkedin.com/in/tine-jozelj-884398121/">LinkedIn: Tine Jozelj</a></li>
 </ul>
 
 
