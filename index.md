@@ -24,11 +24,11 @@ title: Tine Jozelj's CV
 
 Working at [Bird Buddy](https://mybirdbuddy.com/) as Principal Engineer.
 
-I have experiance in designing and building self healing, scalable and low maintanance architectures
+I have experience in designing and building self healing, scalable and low maintenance architectures
 as an Infrastructure Engineer as well as a Software Engineer. At Bird Buddy the _cloud_ manages
 100.000's of IoT devices and processing more than 1M of images and videos per day.
 
-I'm also interested in improving developer experiances and tooling, observability and in general automation of processes
+I'm also interested in improving developer experiences and tooling, observability and in general automation of processes
 to remove toil as much as possible. When starting new projects, i care about automated deployments and releases and ease
 of onboarding new people to the projects.
 
@@ -81,10 +81,10 @@ During my time I have on-boarded all other backend and infrastructure engineers 
 Architecture designed was focusing on reliability, cost optimization and scalability.
 
 __Reliability__ to take in to consideration that IoT devices are unreliable, especially outdoor devices due to poor wifi conditions.
-__Cost Optimization__ due to being a hardware product, where each device sold adds aditional _perpetual_ cost to the cloud.
-__Scalability__ as our successfull [Kickstarter campaign](https://www.kickstarter.com/projects/mybirdbuddy/bird-buddy-a-smart-bird-feeder)
-caused that when we initialy started shipping the devices, we would be shiping them 10.000's of devices.
-We did slow the release a bit, but due to the product offten being bought as a gift (Christmas),
+__Cost Optimization__ due to being a hardware product, where each device sold adds additional _perpetual_ cost to the cloud.
+__Scalability__ as our successful [Kickstarter campaign](https://www.kickstarter.com/projects/mybirdbuddy/bird-buddy-a-smart-bird-feeder)
+caused that when we initially started shipping the devices, we would be shipping them 10.000's of devices.
+We did slow the release a bit, but due to the product often being bought as a gift (Christmas),
 meant that most of devices will be activated at the same day.
 
 
@@ -126,7 +126,7 @@ meant that most of devices will be activated at the same day.
     <i>Ljubljana, Slovenia</i>
 </h4>
 
-Worked on variaty of projects from game APIs, realtime chat and advertisement platform that had to handle millions of requests per day.
+Worked on variety of projects from game APIs, realtime chat and advertisement platform that had to handle millions of requests per day.
 
 ## Projects and Contributions
 ---
@@ -139,9 +139,9 @@ Worked on variaty of projects from game APIs, realtime chat and advertisement pl
 
 <p>
 A social network created for an mmorpg game EVE Online. It was more of a playground to learn/improve web development, frontend and backend.
-Interesting technologies used in this project are Redux, GRPC, Kuberentes, CI/CD Pipeline, Bazel, CQRS, Angular...
+Interesting technologies used in this project are Redux, GRPC, Kubernetes, CI/CD Pipeline, Bazel, CQRS, Angular...
 <br/>
-Sadly never released, but it's still used in NestJS comunity as a referance project for others to see how larger projects look like using
+Sadly never released, but it's still used in NestJS community as a reference project for others to see how larger projects look like using
 the framework.
 </p>
 
@@ -151,7 +151,7 @@ the framework.
     <a href="https://github.com/mentos1386/lynx">https://github.com/mentos1386/lynx</a>
 </h4>
 
-Opinionated Framework built on top of NestJS and TypeORM. Was built in paralle with New Eden Social.
+Opinionated Framework built on top of NestJS and TypeORM. Was built in parallel with New Eden Social.
 Taken from that codebase to be introduced as a framework for others to use.
 Lack of time, resulted in me abandening the project.
 
@@ -180,7 +180,7 @@ See more at my [Github profile](https://github.com/mentos1386).
     <span class="date">2015 - 2019</span>
     <i>Ljubljana, Slovenia</i>
 </h4>
- 
+
  * Web Development
  * Comunications and Network Security
  * Compilers and Virtual Machines
@@ -208,4 +208,3 @@ Last updated: January 2024.
 Online version at [cv.mnts.dev](https://cv.mnts.dev).
 Source at [github.com/mentos1386/cv](https://github.com/mentos1386/cv).
 <a role="button" class="print-it" href="javascript:if(window.print)window.print()">Print it!</a>
-
