@@ -29,7 +29,7 @@ as an Infrastructure Engineer as well as a Software Engineer. At Bird Buddy the 
 100.000's of IoT devices and processing more than 1M of images and videos per day.
 
 I'm also interested in improving developer experiences and tooling, observability and in general automation of processes
-to remove toil as much as possible. When starting new projects, I care about automated deployments and releases and ease
+to remove toil as much as possible. When starting new projects, I care about automated deployments, releases and ease
 of onboarding new people to the projects.
 
 I'm passionate about open source projects and communities. Interested in open web, open standards,
