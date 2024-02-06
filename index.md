@@ -7,7 +7,7 @@ title: Tine Jozelj's CV
     <img
         class="avatar shadow"
         src="https://avatars2.githubusercontent.com/u/1910649?s=460&u=d7ef7a7cd65e644b936e232d61ce21cf2cead047&v=4"
-        alt="Pixalated Avatar that represents me online. I prefeer not to use my real life picture."
+        alt="Pixalated Avatar that represents me online.I prefeer not to use my real life picture."
     />
     <h1 class="title">Tine Jozelj</h1>
     <h2 class="subtitle">Software and Infrastructure Engineer</h2>
@@ -29,7 +29,7 @@ as an Infrastructure Engineer as well as a Software Engineer. At Bird Buddy the 
 100.000's of IoT devices and processing more than 1M of images and videos per day.
 
 I'm also interested in improving developer experiences and tooling, observability and in general automation of processes
-to remove toil as much as possible. When starting new projects, i care about automated deployments and releases and ease
+to remove toil as much as possible. When starting new projects, I care about automated deployments and releases and ease
 of onboarding new people to the projects.
 
 I'm passionate about open source projects and communities. Interested in open web, open standards,
@@ -68,9 +68,9 @@ free software, decentralized technologies...
     <i>Ljubljana, Slovenia</i>
 </h4>
 
-As the first "backend" employee i was in charge of designing and implementing architecture for the Bird Buddy product.
+As the first "backend" employee I was in charge of designing and implementing architecture for the Bird Buddy product.
 
-The mayor challenges about the product were the unreliability of IoT devices, processing live video streams and processing
+The biggest challenges about the product were the unreliability of IoT devices, processing live video streams and processing
 images through inference detections.
 
 The backend was ranging from the mobile app api to bird detection inference processing, iot device management as well as
@@ -82,9 +82,8 @@ Architecture designed was focusing on reliability, cost optimization and scalabi
 
 __Reliability__ to take in to consideration that IoT devices are unreliable, especially outdoor devices due to poor wifi conditions.
 __Cost Optimization__ due to being a hardware product, where each device sold adds additional _perpetual_ cost to the cloud.
-__Scalability__ as our successful [Kickstarter campaign](https://www.kickstarter.com/projects/mybirdbuddy/bird-buddy-a-smart-bird-feeder)
-caused that when we initially started shipping the devices, we would be shipping them 10.000's of devices.
-We did slow the release a bit, but due to the product often being bought as a gift (Christmas),
+__Scalability__ as our successful [Kickstarter campaign](https://www.kickstarter.com/projects/mybirdbuddy/bird-buddy-a-smart-bird-feeder) caused that we imidiatly stated shipping 10.000's of devices instead of more common slow rollout.
+We did try slow the release a bit, but due to the product often being bought as a gift (Christmas),
 meant that most of devices will be activated at the same day.
 
 
@@ -153,7 +152,7 @@ the framework.
 
 Opinionated Framework built on top of NestJS and TypeORM. Was built in parallel with New Eden Social.
 Taken from that codebase to be introduced as a framework for others to use.
-Lack of time, resulted in me abandening the project.
+Lack of time, resulted in me abandoning the project.
 
 <h4>
     <span class="title"><strong>Nest Raven</strong></span>
