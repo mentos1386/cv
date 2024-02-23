@@ -68,7 +68,7 @@ free software, decentralized technologies...
     <i>Ljubljana, Slovenia</i>
 </h4>
 
-As the first "backend" employee I was in charge of designing and implementing architecture for the Bird Buddy product.
+As the first "backend" employee I was in charge of designing and implementing architecture and infrastructure for the Bird Buddy product.
 
 The biggest challenges about the product were the unreliability of IoT devices, processing live video streams and processing
 images through inference detections.
@@ -129,6 +129,19 @@ Worked on variety of projects from game APIs, realtime chat and advertisement pl
 
 ## Projects and Contributions
 ---
+
+<h4>
+    <span class="title"><strong>Zdravko</strong></span>
+    <span class="date">Feb 2024 - Present</span>
+    <a href="https://github.com/mentos1386/zdravko">https://github.com/mentos1386/zdravko</a>
+</h4>
+
+<p>
+Open source Status Page/Healthcheck service with goal of being simple and self hostable.
+Main features: support for monitoring from multiple locations (regions) and writing healtchecks in JavaScirpt with support not just for HTTP but any* other protocol/system.
+<br/>
+Project is still in active development with planed Alpha release in upcoming months and maybe, if open source version sees traction, a sass cloud version.
+</p>
 
 <h4>
     <span class="title"><strong>New Eden Social</strong></span>
