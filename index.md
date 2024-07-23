@@ -22,18 +22,24 @@ title: Tine Jozelj's CV
 
 ## About Me
 
-Working at [Bird Buddy](https://mybirdbuddy.com/) as Principal Engineer.
+Working at [DevRev](https://devrev.ai) as part of Cloud Engineering team.
 
-I have experience in designing and building self healing, scalable and low maintenance architectures
-as an Infrastructure Engineer as well as a Software Engineer. At Bird Buddy the _cloud_ manages
+I have experience in designing and building self healing, scalable and low maintenance software architectures.
+
+In the past, i have worked at Bird Buddy, where I implemented the infrastructure and architecture of the whole cloud for
 100.000's of IoT devices and processing more than 1M of images and videos per day.
 
-I'm also interested in improving developer experiences and tooling, observability and in general automation of processes
+I'm also interested in improving developer experiences, tooling, observability and in general automation of processes
 to remove toil as much as possible. When starting new projects, I care about automated deployments, releases and ease
 of onboarding new people to the projects.
 
 I'm passionate about open source projects and communities. Interested in open web, open standards,
-free software, decentralized technologies...
+free software and decentralized technologies.
+
+In my spare time I'm operating a distributed network of servers (at home and in various clouds) that come together as [tjo.space](https://tjo.space) product, that I offer to fammily and friends.
+I use it for learning purposes (clustering, networking, storage, selfhosting).
+As it's an actual service that other rely on, I operate it as if it would be an actual company.
+The interesting services are self hosted email that gmail and other users actually receive email from.
 
 ### Technologies and Programming Languages
 
@@ -56,29 +62,42 @@ free software, decentralized technologies...
     <li>PHP</li>
     <li>Rust</li>
     <li>Java</li>
+    <li>DataDog</li>
+    <li>Networking</li>
+    <li>Proxmox</li>
 </ul>
 
 ## Occupation
 ---
 
-### [Bird Buddy](https://mybirdbuddy.com)
+### [DevRev](https://devrev.ai)
 <h4>
-    <span class="title"><strong>Principal Engineer</strong></span>
-    <span class="date">Feb 2021 - Present</span>
+    <span class="title"><strong>Member of Technical Staff - Cloud Engineering</strong></span>
+    <span class="date">Feb 2024 - Present</span>
     <i>Ljubljana, Slovenia</i>
 </h4>
 
-As the first "backend" employee I was in charge of designing and implementing architecture and infrastructure for the Bird Buddy product.
+In my first months at the company I delivered new local development environment, CI/CD improvements and
+worked on provisioning a new regional deployment.
+
+### [Bird Buddy](https://mybirdbuddy.com)
+<h4>
+    <span class="title"><strong>Principal Engineer</strong></span>
+    <span class="date">Feb 2021 - Feb 2024</span>
+    <i>Ljubljana, Slovenia</i>
+</h4>
+
+As the first backend employee I was in charge of designing and implementing architecture and infrastructure for the Bird Buddy product.
 
 The biggest challenges about the product were the unreliability of IoT devices, processing live video streams and processing
-images through inference detections.
+images through machine learning inference models.
 
 The backend was ranging from the mobile app api to bird detection inference processing, iot device management as well as
 other things like release process, observability and on-call etc.
 
 During my time I have on-boarded all other backend and infrastructure engineers while building other aspects of the architecture.
 
-Architecture designed was focusing on reliability, cost optimization and scalability.
+Architecture designed was focusing on reliability, cost optimization and scalability. During my time here, we had zero production issues while continiusly releasing new features.
 
 __Reliability__ to take in to consideration that IoT devices are unreliable, especially outdoor devices due to poor wifi conditions.
 __Cost Optimization__ due to being a hardware product, where each device sold adds additional _perpetual_ cost to the cloud.
@@ -196,7 +215,7 @@ See more at my [Github profile](https://github.com/mentos1386).
  * Web Development
  * Comunications and Network Security
  * Compilers and Virtual Machines
- * Mobile Networks
+ * Wireless Networks
  * Computer Graphics
  * Design
  * Integrated Circuits
@@ -215,7 +234,7 @@ See more at my [Github profile](https://github.com/mentos1386).
 ## Footer
 ---
 
-Last updated: January 2024.
+Last updated: July 2024.
 
 Online version at [cv.mnts.dev](https://cv.mnts.dev).
 Source at [github.com/mentos1386/cv](https://github.com/mentos1386/cv).
