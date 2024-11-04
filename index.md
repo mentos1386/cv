@@ -36,7 +36,7 @@ of onboarding new people to the projects.
 I'm passionate about open source projects and communities. Interested in open web, open standards,
 free software and decentralized technologies.
 
-In my spare time I'm operating a distributed network of servers (at home and in various clouds) that come together as [tjo.space](https://tjo.space) product, that I offer to fammily and friends.
+In my spare time I'm operating a distributed network of servers (at home and in various clouds) that come together as [tjo.space](https://tjo.space) product, that I offer to family and friends.
 I use it for learning purposes (clustering, networking, storage, selfhosting).
 As it's an actual service that other rely on, I operate it as if it would be an actual company.
 The interesting services are self hosted email that gmail and other users actually receive email from.
