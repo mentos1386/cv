@@ -1,3 +1,6 @@
+> [!CAUTION]
+> **THIS REPOSITORY HAS MOVED TO https://code.tjo.space/mentos1386/cv**
+
 # markdown-cv
 
 A curriculum vitae maintained in plain text and rendered to HTML and PDF using CSS.
